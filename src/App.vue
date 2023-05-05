@@ -12,12 +12,5 @@ import Navbar from './components/Navbar.vue';
 </template>
 
 <style scoped>
-.layout {
-  width: 100%;
-  height: 100vh;
-}
 
-.container {
-  padding: 20px;
-}
 </style>
